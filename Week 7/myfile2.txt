@@ -1,0 +1,7 @@
+run
+man
+men
+text
+cat
+name
+state
